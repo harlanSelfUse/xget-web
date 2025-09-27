@@ -28,7 +28,7 @@ BASE_URL = "https://xget.xcherry.cn"
 [env.production]
 name = "xget-web"
 # 生产环境子域名配置,修改为你自己的域名
-route = { pattern = "xget-web.domain.com", custom_domain = true }
+route = { pattern = "xuc.xcherry.cn", custom_domain = true }
 
 #staging环境配置
 [env.staging.vars]
