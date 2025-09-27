@@ -8,13 +8,14 @@ files['index.html'] = `<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> URL 转换器</title>
+    <title> 🚀 URL 转换器</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="Xget.ico" />
 </head>
 <body>
     <div class="container">
         <header class="header">
-            <h1 class="title"> URL 转换器</h1>
+            <h1 class="title"> 🚀 URL 转换器</h1>
             <p class="subtitle">将支持平台的 URL 转换为加速后的 URL</p>
         </header>
 
