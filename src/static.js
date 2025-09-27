@@ -10,7 +10,7 @@ files['index.html'] = `<!DOCTYPE html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> 🚀 URL 转换器</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="Xget.ico" />
+    <link rel="shortcut icon" href="./Xget.ico" />
 </head>
 <body>
     <div class="container">
