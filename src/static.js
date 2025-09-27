@@ -23,6 +23,7 @@ files['index.html'] = `<!DOCTYPE html>
             <div class="converter-card">
                 <div class="input-section">
                     <label for="url-input" class="input-label">原始 URL</label>
+                    <span>示例：https://github.com/microsoft/vscode/archive/refs/heads/main.zip</span>
                     <div class="input-wrapper">
                         <input 
                             type="url" 
